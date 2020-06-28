@@ -33,7 +33,7 @@
     "canonicalize": "^1.0.1",
     "lru-cache": "^5.1.1",
     "object.fromentries": "^2.0.2",
-    "rdf-canonize": "git+https://github.com/botocracy/rdf-canonize.js.git#master",
+    "rdf-canonize": "git+https://github.com/botocracy/rdf-canonize.git#master",
     "request": "^2.88.0",
     "semver": "^6.3.0",
     "xmldom": "0.1.19"
@@ -52,7 +52,7 @@
     "browserify": "^16.2.3",
     "chai": "^4.2.0",
     "commander": "^2.19.0",
-    "core-js": "3.x",
+    "core-js": "git+https://github.com/zloirock/core-js.js.git#master",
     "cors": "^2.7.1",
     "cross-env": "^5.2.0",
     "eslint": "^6.8.0",
